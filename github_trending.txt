@@ -1,0 +1,22 @@
+作者：jantic,项目：DeOldify,简介：A Deep Learning based project for colorizing and restoring old images,语言：Jupyter Notebook,链接：https://github.com/jantic/DeOldify
+作者：GoogleChromeLabs,项目：carlo,简介：Web rendering surface for Node applications,语言：JavaScript,链接：https://github.com/GoogleChromeLabs/carlo
+作者：deeppomf,项目：DeepCreamPy,简介：Decensoring Hentai with Deep Neural Networks,语言：Python,链接：https://github.com/deeppomf/DeepCreamPy
+作者：google-research,项目：bert,简介：TensorFlow code and pre-trained models for BERT,语言：Python,链接：https://github.com/google-research/bert
+作者：glorious-codes,项目：glorious-demo,简介：The easiest way to demonstrate your code in action.,语言：JavaScript,链接：https://github.com/glorious-codes/glorious-demo
+作者：iamtrask,项目：Grokking-Deep-Learning,简介：this repository accompanies my forthcoming book "Grokking Deep Learning",语言：Jupyter Notebook,链接：https://github.com/iamtrask/Grokking-Deep-Learning
+作者：akveo,项目：eva-icons,简介：A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.,语言：TypeScript,链接：https://github.com/akveo/eva-icons
+作者：muukii,项目：Pixel,简介：,语言：Swift,链接：https://github.com/muukii/Pixel
+作者：airbnb,项目：AloeStackView,简介：A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.,语言：Swift,链接：https://github.com/airbnb/AloeStackView
+作者：facebookresearch,项目：Horizon,简介：A platform for Applied Reinforcement Learning (Applied RL),语言：Python,链接：https://github.com/facebookresearch/Horizon
+作者：goldfire,项目：howler.js,简介：Javascript audio library for the modern web.,语言：JavaScript,链接：https://github.com/goldfire/howler.js
+作者：Tencent,项目：PocketFlow,简介：An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.,语言：Python,链接：https://github.com/Tencent/PocketFlow
+作者：leonardomso,项目：33-js-concepts,简介：,语言：JavaScript,链接：https://github.com/leonardomso/33-js-concepts
+作者：wagoodman,项目：dive,简介：A tool for exploring each layer in a docker image,语言：Go,链接：https://github.com/wagoodman/dive
+作者：chunqiuyiyu,项目：ervy,简介：Bring charts to terminal.,语言：JavaScript,链接：https://github.com/chunqiuyiyu/ervy
+作者：kamranahmedse,项目：pennywise,简介：Cross-platform application to open anything in a floating window,语言：JavaScript,链接：https://github.com/kamranahmedse/pennywise
+作者：tensorflow,项目：adanet,简介：Fast and flexible AutoML with learning guarantees.,语言：Python,链接：https://github.com/tensorflow/adanet
+作者：pedrommcarrasco,项目：Brooklyn,简介：,语言：Swift,链接：https://github.com/pedrommcarrasco/Brooklyn
+作者：M-J-Murray,项目：MAMEToolkit,简介：A Python toolkit used to train reinforcement learning algorithms against arcade games,语言：Lua,链接：https://github.com/M-J-Murray/MAMEToolkit
+作者：abpframework,项目：abp,简介：ABP vNext,语言：C#,链接：https://github.com/abpframework/abp
+作者：streamich,项目：react-use,简介：React Hooks —,语言：TypeScript,链接：https://github.com/streamich/react-use
+作者：dianping,项目：cat,简介：CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。,语言：JavaScript,链接：https://github.com/dianping/cat
